@@ -1,2 +1,2 @@
 # DemoTouchID
-A Demo : How to use Touch ID
+A demo : How to use Touch ID
